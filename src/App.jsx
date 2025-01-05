@@ -12,7 +12,7 @@ const App = () => {
     contact: {
       name: "Mr. X",
       email: "name@mail.com",
-      phone: "1234567890",
+      phone: "1234567850",
     },
     fullscreen: false,
     bottomtitle: "Please help me with this",
